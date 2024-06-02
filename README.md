@@ -1,0 +1,2 @@
+# nonebot-plugin-ghre
+ghre是一个适用于NoneBot的Github的Release发布提醒插件。所有代码均使用GPT构建
